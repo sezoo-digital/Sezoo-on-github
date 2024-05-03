@@ -9,3 +9,6 @@ This would be text after the first level 1 heading
 This would be text after a level 2 heading
 ### Heading 3
 This would be text after a level 3 heading
+
+How do I introduce a diagram into the markdown?
+

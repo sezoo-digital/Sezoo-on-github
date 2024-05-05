@@ -11,4 +11,4 @@ This would be text after a level 2 heading
 This would be text after a level 3 heading
 
 This is an image
-![Alt Image from better ends article](https://github.com/sezoo-digital/Sezoo-on-github/blob/main/Better%20Ends%20-%20Jackie's%20busy%20life.png?raw=true) 
+![Image from better ends article](https://github.com/sezoo-digital/Sezoo-on-github/blob/main/Better%20Ends%20-%20Jackie's%20busy%20life.png?raw=true) 

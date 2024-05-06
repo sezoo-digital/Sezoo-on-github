@@ -5,6 +5,9 @@ There is, as of this release, absolutely no content of any use in this repositor
 
 Basically I'm exploring how to use markdown to create formatted documents.
 
+There are quite a few online resources giving Markdown guides. Here's one:
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 This is a table in markdown
 | column 1 heading | column 2 Heading | column 3 heading |
 | :---- | :---: | ----: |

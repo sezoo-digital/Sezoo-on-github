@@ -60,3 +60,4 @@ And this is another image file, this time in the image folder of the repository
 
 This is a term
 : And this would be the text that offers a definition of the term. I'll add some more text to see how the formatting works when the lines get longer than a single line on a rendered page.
+: This would be a second definition of the same term.

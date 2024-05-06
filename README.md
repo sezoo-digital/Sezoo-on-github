@@ -36,6 +36,19 @@ And this code block declares the language being used (which enables the renderin
 
 ## Heading 2
 This would be text after a level 2 heading
+
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
+
 ### Heading 3
 This would be text after a level 3 heading
 

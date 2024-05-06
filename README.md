@@ -25,7 +25,7 @@ This is code block:
   "age": 25
 }
 ```
-And this code block declares the language being used
+And this code block declares the language being used (which enables the rendering software to highlight terms appropriately)
 ```json
 {
   "firstName": "John",

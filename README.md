@@ -10,6 +10,8 @@ This is a table in markdown
 | :---- | :---: | ----: |
 | left alignment | centre alignment | right alignment |
 | in markdown I've created columns of different character widths | simple column text | but the table should render neatly |
+| this table has very | simple formatting | but it looks like the rows get an alternate shading effect |
+| At least that's  | what | the rendered view looks like on GitHub |
 
 
 # Heading 1

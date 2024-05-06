@@ -3,6 +3,15 @@ Testing creating web pages from GitHub repository
 
 There is, as of this release, absolutely no content of any use in this repository and presented on this site. I am just exploring the basic features available. Hope you weren't expecting more...
 
+Basically I'm exploring how to use markdown to create formatted documents.
+
+This is a table in markdown
+| column 1 heading | column 2 Heading | column 3 heading |
+| :---- | :---: | ----: |
+| left alignment | centre alignment | right alignment |
+| in markdown I've created columns of different character widths | simple column text | but the table should render neatly |
+
+
 # Heading 1
 This would be text after the first level 1 heading
 ## Heading 2

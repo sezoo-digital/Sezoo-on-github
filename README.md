@@ -58,15 +58,30 @@ This is an image
 And this is another image file, this time in the image folder of the repository
 ![Image from image folder in the repository](https://github.com/sezoo-digital/Sezoo-on-github/blob/9d93971b7222b771787753f87e1563a8fc842d55/images/Towards%20better%20ends%20(1).png?raw=true)
 
-The next markdown sequence should create a line across the page
+The next markdown sequence should create a line across the page. I think the three "-" signs need to be separated by a blank line before and after to create a standalone line
 
 ---
+
+Next I'll put "---" after some text
 
 Term definitions
 ---
+
+And now I'll try "---" before some text
+
+---
+This is some text
+
 This is a term
 : And this would be the text that offers a definition of the term. I'll add some more text to see how the formatting works when the lines get longer than a single line on a rendered page.
 : This would be a second definition of the same term.
 
 However GitHub markdown doesn't support this Markdown syntax, and apparently I need to use the HTML commands directly...
+
+<dl>
+  <dt>Lower cost</dt>
+  <dd>The new version of this product costs significantly less than the previous one!</dd>
+  <dt>Easier to use</dt>
+  <dd>We've changed the product so that it's much easier to use!</dd>
+</dl>
 

@@ -16,6 +16,24 @@ This is a table in markdown
 
 # Heading 1
 This would be text after the first level 1 heading
+
+This is code block:
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+And this code block declares the language being used
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
 ## Heading 2
 This would be text after a level 2 heading
 ### Heading 3

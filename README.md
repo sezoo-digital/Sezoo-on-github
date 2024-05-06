@@ -82,12 +82,13 @@ This is a term
 : And this would be the text that offers a definition of the term. I'll add some more text to see how the formatting works when the lines get longer than a single line on a rendered page.
 : This would be a second definition of the same term.
 
-However GitHub markdown doesn't support this Markdown syntax, and apparently I need to use the HTML commands directly...
+However GitHub markdown doesn't render this Markdown syntax in the native view (but does using pages!), here are the HTML commands directly...
 
 <dl>
-  <dt>Lower cost</dt>
+  <dt>This is a term</dt>
   <dd>The new version of this product costs significantly less than the previous one!</dd>
-  <dt>Easier to use</dt>
+  <dd>Honestly its just much better</dd>
+  <dt>This is another term</dt>
   <dd>We've changed the product so that it's much easier to use!</dd>
 </dl>
 
